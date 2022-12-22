@@ -1,0 +1,8 @@
+C:\Users\shinh\OneDrive\문서\CS_project\Basic\Basic\bin\Debug\Basic.exe.config
+C:\Users\shinh\OneDrive\문서\CS_project\Basic\Basic\bin\Debug\Basic.exe
+C:\Users\shinh\OneDrive\문서\CS_project\Basic\Basic\bin\Debug\Basic.pdb
+C:\Users\shinh\OneDrive\문서\CS_project\Basic\Basic\obj\Debug\Basic.csproj.AssemblyReference.cache
+C:\Users\shinh\OneDrive\문서\CS_project\Basic\Basic\obj\Debug\Basic.csproj.SuggestedBindingRedirects.cache
+C:\Users\shinh\OneDrive\문서\CS_project\Basic\Basic\obj\Debug\Basic.csproj.CoreCompileInputs.cache
+C:\Users\shinh\OneDrive\문서\CS_project\Basic\Basic\obj\Debug\Basic.exe
+C:\Users\shinh\OneDrive\문서\CS_project\Basic\Basic\obj\Debug\Basic.pdb
